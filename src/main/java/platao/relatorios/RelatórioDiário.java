@@ -24,6 +24,6 @@ public class RelatórioDiário
 		super();
 		this.data = data;
 		this.energiaGerada = energiaGerada;
-		this.valorEconomizado = energiaGerada * tarifa * 0.84;
+		this.valorEconomizado = energiaGerada * tarifa * 0.86;
 	}
 }
